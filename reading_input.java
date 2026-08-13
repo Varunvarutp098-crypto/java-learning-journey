@@ -5,7 +5,7 @@ public class reading_input {
         Scanner scanner = new Scanner(System.in);
         System.out.println("A: " + " How old are you ");
         String age = scanner.nextLine().trim();
-        System.out.println("B: " + "i am " + age + " old men " + "but also more energetic");
+        System.out.println("B: " + "i am " + age + " old men " + "but also most energetic");
 
     }
 }
