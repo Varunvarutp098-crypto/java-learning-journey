@@ -1,6 +1,6 @@
 public class constants {
     public static void main(String[] args){
-       final float PI = 2.54F;
+       final float PI = 2.55F;
         System.out.println(PI);
     }
 }
