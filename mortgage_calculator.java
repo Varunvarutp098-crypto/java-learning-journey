@@ -23,7 +23,7 @@ public class mortgage_calculator {
                 * (MONTHS_IN_YEAR * Math.pow(1 + monthlyInterest, numbers_of_payments))
                 / (Math.pow(1 + monthlyInterest, numbers_of_payments) -1);
         String mortgageFormatted = NumberFormat.getCurrencyInstance().toString();
-        System.out.print("Mortgage:" + mortgageFormatted);
+        System.out.print("Mortgage: " + mortgageFormatted);
 
 
 
