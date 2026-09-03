@@ -10,7 +10,7 @@ public class typecasting_casting {
         double f = c - 1;
         System.out.println(f);
         // explicit conversion
-        double z = 56.3;
+        double z = 568.3;
         int t = (int)z + 4;
         System.out.println(t);
         int h = 5;
